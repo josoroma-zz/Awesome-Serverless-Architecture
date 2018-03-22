@@ -16,6 +16,27 @@ Proudly brought to you by:
 
 You can build a serverless web application by using several AWS services together. Each service is fully managed and does not require you to provision or manage servers. You only need to configure them together and upload your application code to AWS Lambda, a serverless compute service.
 
+## AWS AppSync
+
+- https://aws.amazon.com/blogs/aws/introducing-amazon-appsync
+
+- https://www.slideshare.net/AmazonWebServices/mbl306mobile-state-of-the-union
+
+Build data-driven apps with real-time and offline capabilities.
+
+AWS AppSync uses GraphQL, an open standard query language that makes it easy for applications to request data from the cloud.
+
+- https://aws.amazon.com/appsync
+
+### Starters
+
+- https://aws.amazon.com/appsync/resources
+
+### React starters:
+
+- https://github.com/aws-samples/aws-mobile-appsync-events-starter-react
+- https://github.com/aws-samples/aws-mobile-appsync-events-starter-react-native
+
 ## Amazon S3
 
 - https://aws.amazon.com/s3
